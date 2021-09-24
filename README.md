@@ -3,7 +3,7 @@
 ## I'm an electrical engineer turned data scientist and very fond of solutions involving Machine learning!
 
 - 💻 I’m a Data Scientist
-- 💻 I'm currently studying Deep Learning and Big Data 🤣
+- 📈 I'm currently studying Deep Learning and Big Data 🤣
 - 📊 I'm currently working on projects involving Time series.
 
 ### Connect with me:
