@@ -4,7 +4,7 @@
 
 - 💻 I’m a Data Scientist
 - 📈 I'm currently studying Deep Learning and Big Data 🤣
-- 📊 I'm currently working on projects involving Time series.
+- 📊 I'm currently working on projects involving multivariate time series.
 
 ### Connect with me:
 
