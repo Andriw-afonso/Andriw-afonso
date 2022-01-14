@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Andriw</h1>
+<h1 align="center">Hi 👋, I'm Andriw, I'm a data scientist</h1>
 <h3 align="center">I'm passionate about data solutions and machine learning.</h3>
 
 - 🔭 I’m currently working on **my data science project portfolio**
