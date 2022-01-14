@@ -2,18 +2,13 @@
 <h3 align="center">I'm passionate about data solutions and machine learning.</h3>
 
 - 🔭 I’m currently working on **my data science project portfolio**
-
+- 📚 I’m currently studying deep learning for image classification
 - 👯 I look to collaborate on **data science and AI projects**
-
 - 👨‍💻 All of my projects are available at [https://github.com/Andriw-afonso/Data-science-portfolio](https://github.com/Andriw-afonso/Data-science-portfolio)
-
 - 💬 Ask me about **Ask me about technology, data science, AI and etc - I'll be happy to help :)**
-
 - 📫 How to reach me **andriw_eng@outlook.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/andriwdatascientist/](https://www.linkedin.com/in/andriwdatascientist/)
-
-- ⚡ Fun fact **I love music and I am a multi-instrumentalist, at the moment I study piano.**
+- ⚡🎹 Fun fact **I love music and I am a multi-instrumentalist, at the moment I study piano.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
