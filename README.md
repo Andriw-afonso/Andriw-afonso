@@ -5,7 +5,7 @@
 - 📚 Atualmente estou estudando deep learning para classificação de imagens e NLP.
 - 👯 Procuro colaborar em **projetos de ciência de dados e IA**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Andriw-afonso/Data-science-portfolio](https://github.com/Andriw-afonso/Data-science-portfolio)
-- 💬 Pergunte-me sobre **ciência de dados e Machine learning.** Ficarei feliz em ajudar :)
+- 💬 Pergunte-me sobre **Ciência de dados e Machine learning.** Ficarei feliz em ajudar :)
 - 📫 Como chegar até mim **andriw_eng@outlook.com**
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/andriwdatascientist/](https://www.linkedin.com/in/andriwdatascientist/)
 - ⚡🎹 Curiosidade **Adoro música e no momento estudo piano.**
