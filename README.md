@@ -4,7 +4,7 @@
 - 🔭 Atualmente, estou trabalhando no **meu portfólio de projetos de ciência de dados**
 - 📚 Atualmente estou estudando deep learning para classificação de imagens e NLP.
 - 👯 Procuro colaborar em **projetos de ciência de dados e IA**
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Andriw-afonso/Data-science-portfolio](https://github.com/Andriw-afonso/Data-science-portfolio)
+- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Andriw-afonso/DataSciencePortfolio](https://github.com/Andriw-afonso/DataSciencePortfolio)
 - 💬 Pergunte-me sobre **Ciência de dados e Machine learning.** Ficarei feliz em ajudar :)
 - 📫 Como chegar até mim **andriw_eng@outlook.com**
 - 📄 Conheça minhas experiências [https://www.linkedin.com/in/andriwdatascientist/](https://www.linkedin.com/in/andriwdatascientist/)
