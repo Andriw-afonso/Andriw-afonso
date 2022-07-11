@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, Meu nome é Andriw, sou um cientista de dados</h1>
+<h1 align="center">Olá 👋, Meu nome é Andriw, sou um Cientista de dados</h1>
 <h3 align="center">Sou apaixonado por soluções envolvendo dados e aprendizado de máquina...</h3>
 
 - 🔭 Atualmente, estou trabalhando no **meu portfólio de projetos de ciência de dados**
