@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Meu nome é Andriw, sou um Cientista de dados</h1>
 <h3 align="center">Sou apaixonado por soluções envolvendo dados e aprendizado de máquina...</h3>
 
-- 🔭 Atualmente, estou trabalhando no **meu portfólio de projetos de ciência de dados**
+- 🔭 Atualmente, estou trabalhando em **meu portfólio de projetos de ciência de dados**
 - 📚 Atualmente estou estudando deep learning para classificação de imagens e NLP.
 - 👯 Procuro colaborar em **projetos de ciência de dados e IA**
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Andriw-afonso/DataSciencePortfolio](https://github.com/Andriw-afonso/DataSciencePortfolio)
