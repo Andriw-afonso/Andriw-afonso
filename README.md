@@ -1,14 +1,14 @@
-<h1 align="center">Olá 👋, Meu nome é Andriw, sou um Cientista de dados</h1>
-<h3 align="center">Sou apaixonado por soluções envolvendo dados e aprendizado de máquina...</h3>
+<h1 align="center">Hi 👋, My name is Andriw, I'm a Data Scientist</h1>
+<h3 align="center">I am passionate about solutions involving data and machine learning...</h3>
 
-- 🔭 Atualmente, estou trabalhando em **meu portfólio de projetos de ciência de dados**
-- 📚 Atualmente estou estudando deep learning para classificação de imagens e NLP.
-- 👯 Procuro colaborar em **projetos de ciência de dados e IA**
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Andriw-afonso/DataSciencePortfolio](https://github.com/Andriw-afonso/DataSciencePortfolio)
-- 💬 Pergunte-me sobre **Ciência de dados e Machine learning.** Ficarei feliz em ajudar :)
-- 📫 Como chegar até mim **andriw_eng@outlook.com**
-- 📄 Conheça minhas experiências [https://www.linkedin.com/in/andriwdatascientist/](https://www.linkedin.com/in/andriwdatascientist/)
-- ⚡🎹 Curiosidade **Adoro música e no momento estudo piano.**
+- 🔭 I am currently working on **my portfolio of data science projects**
+- 📚 I am currently studying Cloud Computing (AWS).
+- 👯 I look forward to collaborating on **data science and AI projects**
+- 👨‍💻 All my projects are available at [https://github.com/Andriw-afonso/DataSciencePortfolio](https://github.com/Andriw-afonso/DataSciencePortfolio)
+- 💬 Ask me about **Data Science and Machine Learning.** I'm happy to help :)
+- 📫 how to reach me **andriw_eng@outlook.com**
+- 📄 Know my experiences [https://www.linkedin.com/in/andriwdatascientist/](https://www.linkedin.com/in/andriwdatascientist/)
+- ⚡🎹 Curiosity **I love music and I'm currently studying piano.**
 
 
 <h3 align="left">Languages and Tools:</h3>
